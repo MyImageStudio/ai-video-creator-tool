@@ -4,7 +4,7 @@
 > Powered by OpenAI GPT Image 2 · Built for Thai & Southeast Asian creators.
 
 [![Facebook](https://img.shields.io/badge/Facebook-48K%20Followers-blue?logo=facebook)](https://facebook.com/MyImageStudio)
-[![Community](https://img.shields.io/badge/SD%20Thailand-50K%20Members-orange)](https://facebook.com/groups/stablediffusionthailand)
+[![Community](https://img.shields.io/badge/SD%20Thailand-67.6K%20Members-orange)](https://facebook.com/groups/stablediffusionthailand)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://v0-myimage-studio-website.vercel.app)
 
@@ -14,7 +14,7 @@
 
 **AI Video Creator Tool** is a free, open-source pipeline tool that guides creators through every step of AI video production — from raw idea to ready-to-use prompts.
 
-Most AI video guides are in English. This project serves the **~100,000 Thai/SEA AI creators** in our community who need practical, tested, and localized resources.
+Most AI video guides are in English. This project serves the **~115,000 Thai/SEA AI creators** in our community who need practical, tested, and localized resources.
 
 ---
 
@@ -121,8 +121,8 @@ ai-video-creator-tool/
 | Platform | Size | Role |
 |----------|------|------|
 | [MyImage Studio](https://facebook.com/MyImageStudio) | 48,000+ followers | Owner |
-| [Stable Diffusion Thailand](https://facebook.com/groups/stablediffusionthailand) | 50,000+ members | Admin |
-| **Total Reach** | **~100,000 creators** | Thai/SEA AI Community |
+| [Stable Diffusion Thailand](https://facebook.com/groups/stablediffusionthailand) | 67,600+ members | Admin |
+| **Total Reach** | **~115,000 creators** | Thai/SEA AI Community |
 
 ---
 
