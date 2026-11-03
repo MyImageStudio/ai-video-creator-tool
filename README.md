@@ -142,6 +142,10 @@ ai-video-creator-tool/
 2. Go to [Seedance 2.0](https://seedance.ai) / [Kling](https://kling.ai) / [Dreamina](https://dreamina.capcut.com)
 3. Paste and generate!
 
+### Worked example: video-and-image guidance
+
+[Seedance 2.5 courier outfit swap](genjutsu-outfit-swap-workflow.md) — actual inputs, successful prompt, complete 720p result, changed-detail review and a seven-cut editing recipe. This contributed internal test includes provenance, separate editing/generation costs and a dated availability note.
+
 ---
 
 ## 🤲 Contributing

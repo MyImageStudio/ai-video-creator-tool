@@ -93,4 +93,10 @@ cinematic nature documentary style, 4K
 
 ---
 
+## 🧪 Tested workflow example: Seedance 2.5
+
+[Video-and-image guidance: a courier outfit swap](genjutsu-outfit-swap-workflow.md) includes the actual source, appearance reference, successful prompt, complete 720p result and a seven-cut comparison recipe. It also records changed details and separates editing costs from generation. This contributed case documents an earlier internal test; check current workflow availability before generating.
+
+---
+
 *Guide by MyImage Studio — [facebook.com/MyImageStudio](https://facebook.com/MyImageStudio)*
